@@ -1,0 +1,1 @@
+{"root":["./src/agent.ts","./src/api.ts","./src/cli.ts","./src/model.ts","./src/tools.ts","./src/worker.ts"],"errors":true,"version":"5.8.3"}
